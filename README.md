@@ -46,6 +46,6 @@ Repository: https://github.com/Alloy-Systems/work-with-alloy
 
 ## License
 
-Marketplace metadata: MIT License
+Marketplace metadata: Apache License 2.0
 
 Individual plugins: See respective plugin licenses.
