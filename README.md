@@ -28,12 +28,20 @@ Claude marketplace metadata lives in:
 
 ## Codex
 
-Codex marketplace metadata is tracked separately while Codex public marketplace
-installation conventions are confirmed.
+Codex marketplace metadata is tracked separately:
 
 ```text
 .agents/plugins/marketplace.json
 ```
+
+Add this marketplace to Codex:
+
+```bash
+codex plugin marketplace add Alloy-Systems/alloy-marketplace
+```
+
+Codex 0.125.0 successfully lists and installs `work-with-alloy` from this
+marketplace through the app-server plugin install path.
 
 ## Plugins
 
