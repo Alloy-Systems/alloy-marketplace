@@ -1,0 +1,21 @@
+{
+  "name": "alloy-marketplace",
+  "interface": {
+    "displayName": "Alloy Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "work-with-alloy",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Alloy-Systems/work-with-alloy.git",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

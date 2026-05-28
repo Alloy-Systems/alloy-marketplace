@@ -1,0 +1,24 @@
+{
+  "name": "alloy-marketplace",
+  "owner": {
+    "name": "Alloy Systems",
+    "email": "artem@alloy.cx"
+  },
+  "metadata": {
+    "description": "Alloy plugins, skills, and MCP bundles",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "work-with-alloy",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Alloy-Systems/work-with-alloy.git",
+        "ref": "v0.1.0"
+      },
+      "description": "Mandatory Alloy MCP startup and storage/source-of-truth workflow for agents working with Alloy.",
+      "version": "0.1.0",
+      "strict": true
+    }
+  ]
+}
