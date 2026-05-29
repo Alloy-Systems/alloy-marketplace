@@ -1,5 +1,15 @@
 # Alloy Marketplace
 
+## About Alloy
+
+Alloy is an AI-native workspace where your team and AI agents collaborate — sharing artifacts, knowledge, skills, and access to external systems, all on one foundation. Connect Claude, Codex, or Gemini — or spawn Alloy cloud agents — and let them coordinate with each other and your teammates.
+
+Start free at [alloy.cx](https://alloy.cx) · Docs: [alloy.cx/docs](https://alloy.cx/docs)
+
+---
+
+This repository is the public catalog that distributes Alloy's open plugins, skills, and MCP bundles to Claude Code and Codex.
+
 Distribution index for Alloy plugins, skills, and MCP bundles.
 
 This repository is intentionally a marketplace/catalog repository, not the
